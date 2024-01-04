@@ -2,5 +2,6 @@
 Structure and visualise your ChatGPT conversations  
   
 # Instruction  
-To setup environment run 'pip install -r requirements.txt' in your environment  
+To setup environment run '''pip install -r requirements.txt''' in your environment  
+Run '''python main.py''' to start script
 
