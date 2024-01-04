@@ -1,1 +1,3 @@
-# interactive_knowledge_graph
+# Interactive knowledge graph  
+Structure and visualise your ChatGPT conversations  
+
