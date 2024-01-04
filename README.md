@@ -7,3 +7,6 @@ Structure and visualise your ChatGPT conversations
 To setup environment run `pip install -r requirements.txt` in your environment  
 Run `python main.py` to start script
 
+Todos:  
+Make graph fancier  
+Include option for saving graph  
